@@ -1,0 +1,47 @@
+5 3 0.6
+T1 E K M N O Y
+T2 D E K N O Y
+T3 A E K M
+T4 K M Y
+T5 C E I K O O
+
+10 3 0.6
+1 A B C
+2 A B D
+3 B C E
+4 A C D E
+5 B D E
+6 A B C E
+7 B C D E
+8 A B D E
+9 A C E
+10 B C D
+
+
+10 3 0.6
+T1 Sua Banhmi Bo
+T2 Sua Banhmi
+T3 Sua Trung
+T4 Banhmi Bo
+T5 Sua Bo
+T6 Banhmi Trung
+T7 Sua Banhmi Trung
+T8 Bo
+T9 Sua Trung Bo
+T10 Banhmi Trung
+
+9 2 0.6
+T1 Bread Butter Jam
+T2 Butter Coke
+T3 Butter Milk
+T4 Bread Butter Coke
+T5 Bread Milk
+T6 Butter Milk
+T7 Bread Milk
+T8 Bread Butter Milk Jam
+T9 Bread Butter Milk
+
+
+
+
+
